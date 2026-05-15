@@ -30,7 +30,7 @@ This repository contains the public documentation for CrusAuth. It does not cont
 
 ## Purchase and support
 
-- BuiltByBit: `https://builtbybit.com/resources/crusauth-hybrid-authentication.107784/`
-- Discord: `https://discord.gg/cdjjkRpNqr`
+- [BuiltByBit](https://builtbybit.com/resources/crusauth-hybrid-authentication.107784/)
+- [Discord](https://discord.gg/cdjjkRpNqr)
 
 Keep license keys, bridge secrets, database passwords, account databases, and log files private when requesting support.
